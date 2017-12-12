@@ -1,5 +1,5 @@
-
 x = 6
+
 
 def addToX(num):
     '''
@@ -19,6 +19,7 @@ def addToX(num):
     globx += num
 
     return globx
+
 
 print('x is unchanged')
 print(x)

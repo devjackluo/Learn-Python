@@ -1,4 +1,5 @@
-import secondClass
+from basics import secondClass
+
 
 class NumberMod:
 
